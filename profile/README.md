@@ -7,7 +7,7 @@
 
 <td width="230" align="center" valign="middle">
 
-<img src="https://www.banktivity.com/content/assets/images/logos-badges/bank-128@2x.png" width="200"><br>
+<img src="https://images.saasworthy.com/banktivity_6189_logo_1617104152_pz0a8.png" width="200"><br>
 
 <a href="https://software-apps-osx.github.io/.github/banktivity">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
@@ -24,7 +24,7 @@
 
 <td align="center" valign="middle">
 
-<img src="https://www.banktivity.com/content/assets/images/screenshots/ipad/ipad-air-net-worth-report-light@2x.png" width="500">
+<img src="https://www.iggsoftware.com/images/home/IGG-HOME-SCREENS.png" width="500">
 
 </td>
 
@@ -43,7 +43,7 @@
 
 <br>
 
-<img src="https://www.banktivity.com/content/assets/images/screenshots/other/banktivity-multiple-devices.png" width="900">
+<img src="https://www.macobserver.com/wp-content/uploads/2025/10/Banktivity-on-a-Mac.png" width="900">
 
 ---
 
